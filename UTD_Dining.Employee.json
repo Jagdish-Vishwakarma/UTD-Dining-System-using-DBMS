@@ -1,0 +1,308 @@
+[{
+  "_id": {
+    "$oid": "65713951a9536240a2a236a6"
+  },
+  "EmployeeID": "EMP001",
+  "FirstName": "David",
+  "LastName": "Miller",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 32000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236a7"
+  },
+  "EmployeeID": "EMP002",
+  "FirstName": "Olivia",
+  "LastName": "Johnson",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 33000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236a8"
+  },
+  "EmployeeID": "EMP003",
+  "FirstName": "Sophia",
+  "LastName": "Williams",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 34000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236a9"
+  },
+  "EmployeeID": "EMP004",
+  "FirstName": "Michael",
+  "LastName": "Brown",
+  "Position": "Staff",
+  "DepartmentID": "DEPT004",
+  "Salary": 35000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236aa"
+  },
+  "EmployeeID": "EMP005",
+  "FirstName": "Emma",
+  "LastName": "Jones",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 36000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236ab"
+  },
+  "EmployeeID": "EMP006",
+  "FirstName": "William",
+  "LastName": "Garcia",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 37000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236ac"
+  },
+  "EmployeeID": "EMP007",
+  "FirstName": "Amelia",
+  "LastName": "Smith",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 38000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236ad"
+  },
+  "EmployeeID": "EMP008",
+  "FirstName": "Daniel",
+  "LastName": "Davis",
+  "Position": "Manager",
+  "DepartmentID": "DEPT004",
+  "Salary": 50000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236ae"
+  },
+  "EmployeeID": "EMP009",
+  "FirstName": "Ava",
+  "LastName": "Moore",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 48000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236af"
+  },
+  "EmployeeID": "EMP010",
+  "FirstName": "Logan",
+  "LastName": "Martin",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 30000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b0"
+  },
+  "EmployeeID": "EMP011",
+  "FirstName": "Ella",
+  "LastName": "Anderson",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 42000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b1"
+  },
+  "EmployeeID": "EMP012",
+  "FirstName": "Caleb",
+  "LastName": "Thompson",
+  "Position": "Staff",
+  "DepartmentID": "DEPT004",
+  "Salary": 28000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b2"
+  },
+  "EmployeeID": "EMP013",
+  "FirstName": "Mia",
+  "LastName": "White",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 31000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b3"
+  },
+  "EmployeeID": "EMP014",
+  "FirstName": "James",
+  "LastName": "Harris",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 52000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b4"
+  },
+  "EmployeeID": "EMP015",
+  "FirstName": "Evelyn",
+  "LastName": "Martinez",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 45000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b5"
+  },
+  "EmployeeID": "EMP016",
+  "FirstName": "Benjamin",
+  "LastName": "Jackson",
+  "Position": "Staff",
+  "DepartmentID": "DEPT004",
+  "Salary": 48000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b6"
+  },
+  "EmployeeID": "EMP017",
+  "FirstName": "Lily",
+  "LastName": "Clark",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 47000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b7"
+  },
+  "EmployeeID": "EMP018",
+  "FirstName": "Aiden",
+  "LastName": "Taylor",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 49000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b8"
+  },
+  "EmployeeID": "EMP019",
+  "FirstName": "Zoe",
+  "LastName": "Baker",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 51000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236b9"
+  },
+  "EmployeeID": "EMP020",
+  "FirstName": "Jackson",
+  "LastName": "Cooper",
+  "Position": "Staff",
+  "DepartmentID": "DEPT004",
+  "Salary": 32000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236ba"
+  },
+  "EmployeeID": "EMP021",
+  "FirstName": "Chloe",
+  "LastName": "Hill",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 31000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236bb"
+  },
+  "EmployeeID": "EMP022",
+  "FirstName": "Daniel",
+  "LastName": "Barnes",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 49000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236bc"
+  },
+  "EmployeeID": "EMP023",
+  "FirstName": "Grace",
+  "LastName": "Ward",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 52000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236bd"
+  },
+  "EmployeeID": "EMP024",
+  "FirstName": "Mason",
+  "LastName": "Carter",
+  "Position": "Staff",
+  "DepartmentID": "DEPT004",
+  "Salary": 30000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236be"
+  },
+  "EmployeeID": "EMP025",
+  "FirstName": "Layla",
+  "LastName": "Fisher",
+  "Position": "Staff",
+  "DepartmentID": "DEPT001",
+  "Salary": 28000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236bf"
+  },
+  "EmployeeID": "EMP026",
+  "FirstName": "Ethan",
+  "LastName": "Perez",
+  "Position": "Staff",
+  "DepartmentID": "DEPT002",
+  "Salary": 31000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236c0"
+  },
+  "EmployeeID": "EMP027",
+  "FirstName": "Madison",
+  "LastName": "Foster",
+  "Position": "Staff",
+  "DepartmentID": "DEPT003",
+  "Salary": 53000
+},
+{
+  "_id": {
+    "$oid": "65713951a9536240a2a236c1"
+  },
+  "EmployeeID": "EMP028",
+  "FirstName": "Liam",
+  "LastName": "Hernandez",
+  "Position": "Staff",
+  "DepartmentID": "DEPT004",
+  "Salary": 46000
+}]

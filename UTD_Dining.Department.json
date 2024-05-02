@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6571394ea9536240a2a236a2"
+  },
+  "DepartmentID": "DEPT001",
+  "DepartmentName": "Dining Services"
+},
+{
+  "_id": {
+    "$oid": "6571394ea9536240a2a236a3"
+  },
+  "DepartmentID": "DEPT002",
+  "DepartmentName": "Kitchen Operations"
+},
+{
+  "_id": {
+    "$oid": "6571394ea9536240a2a236a4"
+  },
+  "DepartmentID": "DEPT003",
+  "DepartmentName": "Customer Service"
+},
+{
+  "_id": {
+    "$oid": "6571394ea9536240a2a236a5"
+  },
+  "DepartmentID": "DEPT004",
+  "DepartmentName": "Facility Management"
+}]
